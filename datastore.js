@@ -2,7 +2,7 @@
 // @name         背包收纳
 // @author       青黛
 // @version      1.0.0
-// @description  收纳，格式 .收纳 <物品>
+// @description  收纳，格式 .收纳 <物品> [背包名] 
 // @timestamp    2025-02-06
 // @license      Apache-2
 // @homepageURL  https://github.com/cloudwindw/-/tree/main
