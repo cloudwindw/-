@@ -3,10 +3,9 @@
 // @author       青黛
 // @version      1.0.0
 // @description  收纳，格式 .收纳 <物品>
-// @timestamp    1672423909
-// 2025-12-31
+// @timestamp    2025-02-06
 // @license      Apache-2
-// @homepageURL  后续补上
+// @homepageURL  https://github.com/cloudwindw/-/tree/main
 // ==/UserScript==
 
 
